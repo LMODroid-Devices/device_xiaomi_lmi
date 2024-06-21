@@ -6,8 +6,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_lmi.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_lmi-user \
-    lmodroid_lmi-userdebug \
-    lmodroid_lmi-eng
